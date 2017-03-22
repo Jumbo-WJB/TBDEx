@@ -1,3 +1,4 @@
+//渗透测试中利用基于时间差反馈的远程代码执行漏洞（Timed Based RCE）进行数据获取 http://www.freebuf.com/articles/web/129045.html
 #&nbsp;TBDEx
 Time Based Data Exfiltration Tool<br />
 
